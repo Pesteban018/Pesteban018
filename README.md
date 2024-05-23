@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Pacheco</h1>
-<h3 align="center">Passionate in Frontend Developer | Web developerr</h3>
+<h3 align="center">Passionate in Frontend Developer | Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pesteban018&label=Profile%20views&color=0e75b6&style=flat" alt="pesteban018" /> </p>
 
